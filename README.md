@@ -1,3 +1,4 @@
+
 # 🚀 **Senior DevSecOps Engineer | Cloud Architect | AI-Powered Infrastructure**
 
 <p align="center">
@@ -111,6 +112,44 @@ Senior DevSecOps Engineer with a passion for building **production-grade cloud i
 
 ---
 
+## 🛠️ **Technology Stack**
+
+### ☁️ **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🐳 **Containers & Orchestration**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### 🔄 **CI/CD & Automation**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+### 🔐 **Security & Compliance**
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-333?style=for-the-badge&logo=trivy&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-FF6B6B?style=for-the-badge&logo=vault&logoColor=white)
+
+### 📊 **Monitoring & Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
+
+### 💻 **Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
+
 ## 🏗️ **Featured Enterprise Projects**
 
 ### 1. 🛡️ **PromptShield - Enterprise LLM Firewall**
@@ -124,26 +163,11 @@ Senior DevSecOps Engineer with a passion for building **production-grade cloud i
 | **Tech Stack** | Python, FastAPI, JavaScript, Docker, Cloudflare |
 | **Status** | ✅ Production Ready |
 
-🔗 [View on GitHub](https://github.com/Vishnu063/Promptshield) | 📖 [Documentation](https://github.com/Vishnu063/Promptshield) | 🎥 [Demo](https://github.com/Vishnu063/Promptshield)
+🔗 [View on GitHub](https://github.com/Vishnu063/Promptshield) | 📖 [Documentation](https://github.com/Vishnu063/Promptshield)
 
 ---
 
-### 2. 🤖 **AI DevSecOps Agent**
-*Intelligent Security Automation with Machine Learning*
-
-| Aspect | Details |
-|--------|---------|
-| **Architecture** | Python, FastAPI, ML Models, Kubernetes, Prometheus |
-| **Features** | Automated threat detection, security recommendation engine, predictive analytics |
-| **Impact** | 60% faster incident response times |
-| **Tech Stack** | Python, FastAPI, ML, Kubernetes, Prometheus |
-| **Status** | 🚀 In Development |
-
-🔗 [View on GitHub](https://github.com/Vishnu063) | 📖 [Documentation](https://github.com/Vishnu063) | 🎥 [Demo](https://github.com/Vishnu063)
-
----
-
-### 3. ☸️ **AWS Kubernetes Platform**
+### 2. ☸️ **AWS Kubernetes Platform**
 *Production-Ready Kubernetes Cluster Automation*
 
 | Aspect | Details |
@@ -154,22 +178,7 @@ Senior DevSecOps Engineer with a passion for building **production-grade cloud i
 | **Tech Stack** | AWS EKS, Terraform, Helm, ArgoCD, Vault |
 | **Status** | ✅ Production Ready |
 
-🔗 [View on GitHub](https://github.com/Vishnu063) | 📖 [Documentation](https://github.com/Vishnu063) | 🎥 [Demo](https://github.com/Vishnu063)
-
----
-
-### 4. 📊 **Cloud Monitoring Platform**
-*Unified Observability with Prometheus & Grafana*
-
-| Aspect | Details |
-|--------|---------|
-| **Architecture** | Prometheus, Grafana, ELK Stack, AWS CloudWatch |
-| **Features** | Unified dashboards, automated alerting, log aggregation |
-| **Impact** | 90% faster issue detection |
-| **Tech Stack** | Prometheus, Grafana, ELK, CloudWatch |
-| **Status** | ✅ Production Ready |
-
-🔗 [View on GitHub](https://github.com/Vishnu063) | 📖 [Documentation](https://github.com/Vishnu063) | 🎥 [Demo](https://github.com/Vishnu063)
+🔗 [View on GitHub](https://github.com/Vishnu063)
 
 ---
 
@@ -291,14 +300,6 @@ Bash          ██████░░░░░░░░░░░░░░░   
 ---
 
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile" />
-</p>
-
----
-
-<p align="center">
   <b>⭐ If you like what you see, consider starring my repositories or connecting with me!</b>
 </p>
 
@@ -309,3 +310,4 @@ Bash          ██████░░░░░░░░░░░░░░░   
 ---
 
 *Last Updated: 2026* | *Profile Views: <img src="https://komarev.com/ghpvc/?username=Vishnu063&label=&color=0e75b6&style=flat" alt="Profile Views" />*
+```
