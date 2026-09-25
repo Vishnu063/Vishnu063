@@ -1,196 +1,100 @@
-# Hi 👋 I'm Vishnu Kushwaha
+<h1 align="center">Hi, I'm Vishnu Kushwaha 👋</h1>
 
-### Cloud / DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD
+<h3 align="center">
+Cloud / DevOps Engineer • AWS • Terraform • Kubernetes • CI/CD
+</h3>
 
-I'm a Cloud/DevOps professional with **4 years of experience working with AWS infrastructure and production environments**.
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+</p>
 
-My background is mainly in AWS cloud support and operations, and I'm currently focusing on strengthening my hands-on DevOps skills around **Terraform, Jenkins, Docker, Kubernetes, CI/CD and DevSecOps**.
-
-I like understanding how things work in production, troubleshooting issues, and finding ways to automate repetitive work.
-
----
-
-## 🛠️ What I work with
-
-**Cloud**
-
-AWS — EC2, VPC, ALB, Auto Scaling, S3, IAM, RDS, CloudWatch, ECR, Secrets Manager
-
-**Infrastructure as Code**
-
-Terraform, CloudFormation, Checkov, Terrascan
-
-**Containers**
-
-Docker, Docker Compose, Kubernetes, Amazon EKS, Helm
-
-**CI/CD**
-
-Jenkins, GitHub Actions, Git, GitHub
-
-**Security**
-
-SonarQube, Snyk, Trivy, Gitleaks, OWASP Dependency-Check, Checkov, Vault
-
-**Monitoring**
-
-CloudWatch, Prometheus, Grafana, ELK, Loki, CloudTrail
-
-**Systems & Scripting**
-
-Linux, Amazon Linux, Ubuntu, Bash, Python
+<p align="center">
+  <a href="https://linkedin.com/in/vishnu-kushwaha-64300916b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Vishnu063">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🔧 What I enjoy working on
+### 🧭 About Me
 
-* Building and managing AWS infrastructure
-* Writing and maintaining Terraform configurations
-* Working with CI/CD pipelines
-* Troubleshooting Jenkins pipeline failures
-* Containerizing applications with Docker
-* Deploying applications on Kubernetes
-* Investigating production alerts and logs
-* Working with IAM and cloud security
-* Finding and fixing infrastructure drift
-* Adding security checks into CI/CD pipelines
-* Automating repetitive operational tasks
+I'm a **Cloud/DevOps professional with 4 years of experience in AWS infrastructure and production operations**.
+
+My background is rooted in cloud support and operations, and I'm currently deepening my hands-on DevOps skills across **Terraform, Jenkins, Docker, Kubernetes, CI/CD, and DevSecOps**.
+
+I enjoy understanding how systems actually behave in production — troubleshooting real issues, finding root causes, and automating repetitive work.
+
+> **Goal:** Build, secure, deploy, monitor, and troubleshoot production workloads on AWS and Kubernetes using Terraform and CI/CD.
 
 ---
 
-## 🚀 Featured Project
+### 🛠️ Tech Stack
 
-### SecureMicro
+**☁️ Cloud — AWS**
 
-A hands-on **DevSecOps CI/CD project** where I worked through the complete flow of building, securing and deploying a containerized application.
+`EC2` · `VPC` · `ALB` · `Auto Scaling` · `S3` · `IAM` · `RDS` · `CloudWatch` · `ECR` · `Secrets Manager` · `CloudTrail`
 
-The project includes:
+**🏗️ Infrastructure as Code**
 
-* Jenkins CI/CD
-* Docker
-* Kubernetes
-* Helm
-* Terraform
-* AWS / ECR
-* Trivy
-* Gitleaks
-* Semgrep
-* Checkov
-* GitHub
+`Terraform` · `CloudFormation` · `Checkov` · `Terrascan`
 
-### Pipeline
+**🐳 Containers & Kubernetes**
+
+`Docker` · `Docker Compose` · `Kubernetes` · `Amazon EKS` · `Helm`
+
+**🔁 CI/CD & Version Control**
+
+`Jenkins` · `GitHub Actions` · `Git` · `GitHub`
+
+**🔐 DevSecOps**
+
+`SonarQube` · `Snyk` · `Trivy` · `Gitleaks` · `OWASP Dependency-Check` · `Vault`
+
+**📊 Monitoring & Observability**
+
+`CloudWatch` · `Prometheus` · `Grafana` · `ELK Stack` · `Loki` · `CloudTrail` · `SNS`
+
+**🖥️ Systems & Scripting**
+
+`Linux` · `Amazon Linux` · `Ubuntu` · `Bash` · `Python`
+
+---
+
+### 🚀 Featured Project — [SecureMicro](https://github.com/Vishnu063/SecureMicro)
+
+A hands-on **DevSecOps project** covering the flow from source code and CI/CD to security scanning, containerization, and Kubernetes deployment.
+
+**Pipeline:**
 
 ```text
 GitHub
-   ↓
+   │
+   ▼
 Jenkins
-   ↓
-Build & Test
-   ↓
-Security Scans
+   │
+   ├── Build & Test
+   │
    ├── SonarQube
    ├── Gitleaks
    ├── Semgrep
    ├── Checkov
    └── Trivy
-   ↓
+   │
+   ▼
 Docker Image
-   ↓
+   │
+   ▼
 Amazon ECR
-   ↓
+   │
+   ▼
 Kubernetes / Helm
-```
-
-🔗 **Project:**
-https://github.com/Vishnu063/SecureMicro
-
----
-
-## 📚 What I'm currently learning
-
-I'm currently spending most of my time improving my practical DevOps skills.
-
-Some of the areas I'm focusing on:
-
-* AWS architecture and troubleshooting
-* Terraform
-* Kubernetes / EKS
-* Jenkins and CI/CD
-* Docker
-* DevSecOps
-* Monitoring and observability
-* Linux troubleshooting
-* Production scenarios
-
-My main goal is simple:
-
-> **Build, secure, deploy, monitor and troubleshoot production workloads on AWS and Kubernetes using Terraform and CI/CD.**
-
----
-
-## 💡 How I approach production problems
-
-When something breaks, I try not to jump straight to a fix.
-
-```text
-Understand the issue
-        ↓
-Check metrics and logs
-        ↓
-Find where the problem is
-        ↓
-Identify the root cause
-        ↓
-Fix it safely
-        ↓
-Verify the result
-        ↓
-Prevent it from happening again
-```
-
-That's probably the part of DevOps I enjoy the most — **troubleshooting real problems and understanding why they happened.**
-
----
-
-## 🌱 A few things I'm working towards
-
-* Better Kubernetes troubleshooting
-* Production-grade Terraform
-* More automation with CI/CD
-* Stronger AWS architecture skills
-* DevSecOps automation
-* Better observability
-* Building more real-world projects
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu063&show_icons=true&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu063&hide_border=true&theme=transparent" />
-</p>
-
----
-
-## 🤝 Connect
-
-<p align="left">
-  <a href="https://github.com/Vishnu063">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/vishnu-kushwaha-64300916b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-### Thanks for stopping by 👋
-
-I'm always interested in learning, building things and getting better at DevOps.
-
-**AWS • Terraform • Jenkins • Docker • Kubernetes • DevSecOps**
+   │
+   ▼
+Application
