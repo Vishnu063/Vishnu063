@@ -33,10 +33,12 @@ Practice starts with symptoms, with hints and solutions available separately. Ru
 
 **Git · Docker · Kubernetes · Python**
 
-### [SecureMicro](https://github.com/Vishnu063/SecureMicro)
-A hands-on DevSecOps project covering Jenkins pipelines, Docker builds, Amazon ECR, and Kubernetes deployment with Helm. The documented workflow includes Gitleaks and Trivy security gates, Terraform infrastructure, and Prometheus/Grafana monitoring.
+### [PharmaCare / CloudLaunch](https://github.com/Vishnu063/cloudlaunch)
+A pharmacy management demo built with FastAPI, PostgreSQL, and Docker Compose. The current Jenkinsfile includes automated tests, application deployment, a container-health wait, and a fallback image if deployment fails.
 
-**AWS · Terraform · Jenkins · Docker · Kubernetes · DevSecOps**
+This project is useful for discussing the operational details behind a release: test data, database access, health checks, and why an application rollback does not restore database changes. Full end-to-end and backup/restore validation remain open.
+
+**AWS EC2 · Jenkins · Docker Compose · FastAPI · PostgreSQL**
 
 ## Tools I work with
 
