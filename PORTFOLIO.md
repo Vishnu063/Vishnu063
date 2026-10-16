@@ -43,10 +43,32 @@ A starting point for reviewing my cloud and DevOps projects. Each linked reviewe
 
 Hostel-Manag, new-hrms-sourcecode, myweb, Wanderlust-Mega-Project1, and VoiceStudio are forks. Their upstream authors retain credit; a fork alone is not evidence of my contribution. Review commit diffs when discussing work on them. VoiceStudio's upstream documentation was left intact in this review.
 
-Demo, First_repo, MySecGit, and My-repo-vishnu are learning material. CreatorOS and the empty Terraform/Wanderlust-Mega-Project repositories are placeholders rather than completed projects. Private repositories are not presented as public interview demos.
+Demo and First_repo are learning material. CreatorOS and the empty Terraform/Wanderlust-Mega-Project repositories are placeholders rather than completed projects. Private repositories are not presented as public interview demos.
 
 ## How I would demonstrate a project
 
 I start with its purpose, follow the relevant source, reproduce a failure or useful result, and explain the observation that verifies the outcome. I distinguish work I changed from inherited code, and local tests from live provider acceptance.
 
 This index records the source review on 16 October 2026. It does not imply that every repository has been deployed, fully audited, or independently reviewed. Deployment-sensitive documentation changes may be in draft pull requests until their integration is reviewed.
+
+## Documentation changes awaiting review
+
+These draft pull requests contain the reviewer guides and README corrections for deployment-sensitive repositories. They are not merged and do not establish live deployment success.
+
+| Repository | Review changes |
+| --- | --- |
+| AWS-Infrastructure-Automation-Project | [Draft PR #1](https://github.com/Vishnu063/AWS-Infrastructure-Automation-Project/pull/1) |
+| cloudlaunch | [Draft PR #3](https://github.com/Vishnu063/cloudlaunch/pull/3) |
+| devops-cicd-project | [Draft PR #1](https://github.com/Vishnu063/devops-cicd-project/pull/1) |
+| devsecops-demo | [Draft PR #5](https://github.com/Vishnu063/devsecops-demo/pull/5) |
+| My_Project | [Draft PR #1](https://github.com/Vishnu063/My_Project/pull/1) |
+| my-k8s-project | [Draft PR #1](https://github.com/Vishnu063/my-k8s-project/pull/1) |
+| my-ticketing-system | [Draft PR #2](https://github.com/Vishnu063/my-ticketing-system/pull/2) |
+| myweb | [Draft PR #1](https://github.com/Vishnu063/myweb/pull/1) |
+| Project | [Draft PR #1](https://github.com/Vishnu063/Project/pull/1) |
+| Project123 | [Draft PR #1](https://github.com/Vishnu063/Project123/pull/1) |
+| Promptshield | [Draft PR #1](https://github.com/Vishnu063/Promptshield/pull/1) |
+| SecureMicro | [Draft PR #1](https://github.com/Vishnu063/SecureMicro/pull/1) |
+| urlshort | [Draft PR #1](https://github.com/Vishnu063/urlshort/pull/1) |
+| votesecops | [Draft PR #1](https://github.com/Vishnu063/votesecops/pull/1) |
+| Wanderlust-Mega-Project1 | [Draft PR #1](https://github.com/Vishnu063/Wanderlust-Mega-Project1/pull/1) |
