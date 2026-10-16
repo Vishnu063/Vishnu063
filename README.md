@@ -1,179 +1,64 @@
-<h1 align="center">Hi, I'm Vishnu Kushwaha 👋</h1>
-
-<h3 align="center">
-Cloud / DevOps Professional • AWS • Terraform • Kubernetes • CI/CD
-</h3>
-
+<h1 align="center">Vishnu Kushwaha</h1>
+<p align="center"><strong>Cloud & DevOps · AWS · Kubernetes · CI/CD</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/vishnu-kushwaha-64300916b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Vishnu063">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  Pune, India &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/vishnu-kushwaha-64300916b">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Vishnu063?tab=repositories">Repositories</a>
 </p>
 
 ---
 
-### 🧭 About Me
+## About me
 
 I'm a **Cloud/DevOps professional with 4 years of experience** across AWS infrastructure, cloud support, and production operations.
 
-My experience includes working with **AWS, Terraform, Jenkins, Linux, CI/CD, monitoring, and production troubleshooting**, while building deeper hands-on skills in **Docker, Kubernetes, EKS, and DevSecOps**.
+I enjoy troubleshooting infrastructure and application issues, understanding root causes, and improving processes through automation. My projects here focus on deployment pipelines, Kubernetes troubleshooting, and security checks.
 
-I enjoy troubleshooting infrastructure and application issues, understanding root causes, and improving processes through automation.
+## Selected projects
 
-> **Goal:** Build, secure, deploy, monitor, and troubleshoot production workloads on AWS and Kubernetes using Terraform and CI/CD.
+### [DevOps Platform Toolkit](https://github.com/Vishnu063/devops_platform)
+A CLI for checking Kubernetes releases and collecting incident evidence. It includes local reports, troubleshooting suggestions, and recovery actions scoped by explicit policies.
 
----
+Start with the offline walkthrough to see the output without connecting a cluster. The README documents the checks performed and the limits of the development version.
 
-### 🛠️ Tech Stack
+**Python · Kubernetes · Helm · CI/CD**
 
-**☁️ AWS & Cloud**
+### [DevOps Troubleshooting Labs](https://github.com/Vishnu063/devops-troubleshooting-labs)
+A collection of 100 troubleshooting scenarios across three difficulty levels. There are 24 runnable scenarios and three additional compound incidents; the remaining scenarios use evidence-based investigations.
 
-EC2 · VPC · ALB · Auto Scaling · S3 · IAM · RDS · ECR · Secrets Manager · CloudWatch · CloudTrail · SNS
+Practice starts with symptoms, with hints and solutions available separately. Runnable labs include recovery checks so a fix can be verified.
 
-**🏗️ Infrastructure as Code**
+**Git · Docker · Kubernetes · Python**
 
-Terraform · CloudFormation · Checkov · Terrascan
+### [SecureMicro](https://github.com/Vishnu063/SecureMicro)
+A hands-on DevSecOps project covering Jenkins pipelines, Docker builds, Amazon ECR, and Kubernetes deployment with Helm. The documented workflow includes Gitleaks and Trivy security gates, Terraform infrastructure, and Prometheus/Grafana monitoring.
 
-**🐳 Containers & Kubernetes**
+**AWS · Terraform · Jenkins · Docker · Kubernetes · DevSecOps**
 
-Docker · Docker Compose · Kubernetes · Amazon EKS · Helm
+## Tools I work with
 
-**🔁 CI/CD & Version Control**
+| Area | Tools |
+| --- | --- |
+| Cloud | AWS: EC2, VPC, IAM, ALB, S3, RDS, ECR, CloudWatch |
+| Infrastructure | Terraform |
+| Containers | Docker, Docker Compose, Kubernetes, EKS, Helm |
+| Delivery | Jenkins, GitHub Actions, ArgoCD, Git |
+| Security | Gitleaks, Semgrep, Trivy, SonarQube, Snyk |
+| Monitoring | CloudWatch, Prometheus, Grafana |
+| Systems & scripting | Linux, Bash, Python |
 
-Jenkins · GitHub Actions · Git · GitHub
+## How I troubleshoot
 
-**🔐 DevSecOps & Security**
+I start with the symptoms and recent changes, then use logs, metrics, and configuration to narrow down the cause. After a fix, I check recovery and document what happened.
 
-SonarQube · Snyk · Trivy · Gitleaks · Semgrep · OWASP Dependency-Check · Vault
+## Current focus
 
-**📊 Monitoring & Observability**
-
-CloudWatch · Prometheus · Grafana · ELK Stack · Loki
-
-**🖥️ Systems & Scripting**
-
-Linux · Amazon Linux · Ubuntu · Bash · Python
-
-**🎫 IT Operations**
-
-Jira · ServiceNow
-
----
-
-### 🚀 Featured Project — [SecureMicro](https://github.com/Vishnu063/SecureMicro)
-
-A hands-on **DevSecOps CI/CD project** built to practice secure application delivery using Jenkins, Docker, AWS, and Kubernetes.
-
-**Pipeline:**
-
-```text
-GitHub
-   │
-   ▼
-Jenkins
-   │
-   ├── Build & Test
-   │
-   ├── SonarQube
-   ├── Gitleaks
-   ├── Semgrep
-   ├── Checkov
-   └── Trivy
-   │
-   ▼
-Docker Image
-   │
-   ▼
-Amazon ECR
-   │
-   ▼
-Kubernetes + Helm
-```
-
-**Technologies:**
-
-`AWS` · `Terraform` · `Jenkins` · `Docker` · `Amazon ECR` · `Kubernetes` · `Helm` · `Trivy` · `Gitleaks` · `Semgrep` · `Checkov`
-
-**What I practiced:**
-
-* Building CI/CD pipelines with Jenkins
-* Containerizing applications with Docker
-* Managing infrastructure using Terraform
-* Deploying applications to Kubernetes
-* Working with Amazon ECR
-* Integrating security checks into CI/CD
-* Troubleshooting build and deployment issues
+- Kubernetes and EKS troubleshooting
+- Clearer deployment checks and safer recovery workflows
+- Practical labs with reproducible failures and verifiable fixes
 
 ---
 
-### 💡 How I Approach Production Issues
-
-```text
-Understand the issue
-        ↓
-Check metrics & logs
-        ↓
-Isolate the problem
-        ↓
-Identify root cause
-        ↓
-Fix safely
-        ↓
-Verify
-        ↓
-Prevent recurrence
-```
-
-I prefer understanding **why something broke** rather than only fixing the immediate symptom.
-
----
-
-### 🌱 Currently Focused On
-
-* Kubernetes & EKS troubleshooting
-* Terraform and Infrastructure as Code
-* CI/CD automation with Jenkins
-* AWS infrastructure and networking
-* DevSecOps pipeline automation
-* Monitoring & observability
-* Linux and production troubleshooting
-
----
-
-### 📌 What You'll Find Here
-
-This profile is where I document my hands-on work and learning around:
-
-```text
-AWS
-Terraform
-CI/CD
-Docker
-Kubernetes
-DevSecOps
-Monitoring
-Automation
-```
-
----
-
-### 🎯 Current Goal
-
-> **Build stronger hands-on experience designing, securing, deploying, monitoring, and troubleshooting cloud workloads on AWS and Kubernetes.**
-
----
-
-<p align="center">
-  <i>Always learning. Always building. Always improving. 👋</i>
-</p>
+**Open to DevOps Engineer, AWS DevOps Engineer, and Cloud-DevOps Engineer roles.**  
+Pune · Mumbai · Bengaluru · Remote India
