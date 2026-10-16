@@ -15,7 +15,8 @@ I'm a **Cloud/DevOps professional with 4 years of experience** across AWS infras
 
 I enjoy troubleshooting infrastructure and application issues, understanding root causes, and improving processes through automation. My projects here focus on deployment pipelines, Kubernetes troubleshooting, and security checks.
 
-## Selected projects
+**[Browse my DevOps portfolio and reviewer guides](PORTFOLIO.md)**
+\n## Selected projects
 
 ### [DevOps Platform Toolkit](https://github.com/Vishnu063/devops_platform)
 A CLI for checking Kubernetes releases and collecting incident evidence. It includes local reports, troubleshooting suggestions, and recovery actions scoped by explicit policies.
